@@ -52,4 +52,4 @@ Git · GitHub · VS Code · Docker
 
 ---
 
-⚡ *"I don't chase trends – I build the future, one brilliant line of code at a time."*
+⚡ *"I don’t just write code – I craft impact, one project at a time."*
